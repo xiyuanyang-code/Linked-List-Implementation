@@ -17,5 +17,6 @@ int main() {
     thelklist.modify(0,4);
     thelklist.printList();
     cout << thelklist.size << endl;
+    cin.get();
     return 0;
 }
